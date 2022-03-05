@@ -1,5 +1,5 @@
-Gul Farhad Ali Irinel | Grupa 314CC
-Structuri de date - Tema 2
+Gul Farhad Ali Irinel 
+Tic-Tac-Toe based on MiniMax Algorithm
 
 <=================================<STRUCTURI>=================================>
 
